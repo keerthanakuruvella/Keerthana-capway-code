@@ -1,4 +1,4 @@
-# CapWay
+![CapWay](readme-assets/capway.png)
 
 Recreate CapWay's landing page using SASS, JS, and HTML. All assets for the site will be provided.
 
@@ -11,8 +11,18 @@ Recreate CapWay's landing page using SASS, JS, and HTML. All assets for the site
 - Use `background-image` to set all images instead of the <img> tag. Enter image should be set to fit within the tag that you are using to set the background to.
 - In the Get to Know Money Better section, make it so that clicking on each of the tabs changes the media below. Using xhr (or any wrapper around xhr like jQuery), make an API call to https://gateway.dev.cpwys.co/api/v1/content/fetch/learnmoney to pull the corresponding media for each tab. Only use the first 4 of each category. Use the the `thumbnail_url` property to set the image of each card.
 
-
 ## How to submit
 - Fork this repository on GitHub
 - Occassionally commit changes using GIT while developing
 - When you are ready to submit, open a pull request with this respository
+
+
+## Previews
+
+![preview-1](previews/1.png)
+![preview-2](previews/2.png)
+![preview-3](previews/3.png)
+![preview-4](previews/4.png)
+![preview-5](previews/5.png)
+![preview-6](previews/6.png)
+![preview-7](previews/7.png)
